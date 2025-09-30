@@ -1,7 +1,7 @@
 // JavaScript Fundamentals - Part 1
 
 let js = "amazing";
-console.log(40 + 8 + 23 - 10);
+console.log(40 + 89 + 23 - 10);
 
 console.log("Math operations:");
 console.log("Addition:", 10 + 10);
