@@ -204,7 +204,7 @@ heading.style.backgroundColor = "yellow"; // Note: camelCase!
 heading.style.fontSize = "3rem";
 heading.style.padding = "20px";
 heading.style.borderRadius = "10px";
-```
+input.placeholder = "Type here";```
 
 **CSS Property Names in JavaScript:**
 
